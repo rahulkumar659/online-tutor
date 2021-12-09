@@ -1,0 +1,58 @@
+
+body{
+  background-image:url("../images/books.2.jpg");
+}
+
+.logo{
+  width:150px;
+  height:100px;
+}
+
+
+.navbar-brand{
+  color: white;
+}
+
+.btn-outline-success{
+  background: white;
+  border-color: green;
+  color: green;
+}
+
+.img-circle{
+  width:200px;
+  height:200px;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 20px;
+    font-size: 40px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 20px;
+    font-size: 40px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.center-block{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thumbnail{
+width:250px;
+height:250px
+}
